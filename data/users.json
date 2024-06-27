@@ -1,232 +1,185 @@
 [
   {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
+    "id": "ae59ac0a-b87f-46cc-a883-fa55f9f36773",
+    "username": "Alice",
+    "age": 61,
+    "hobbies": [
+      "Reading",
+      "Swimming",
+      "Traveling"
+    ]
   },
   {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "address": {
-      "street": "Victor Plains",
-      "suite": "Suite 879",
-      "city": "Wisokyburgh",
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    },
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net",
-    "company": {
-      "name": "Deckow-Crist",
-      "catchPhrase": "Proactive didactic contingency",
-      "bs": "synergize scalable supply-chains"
-    }
+    "id": "7c2cc42d-4a84-4d64-bf7f-696f642750f8",
+    "username": "Bob",
+    "age": 43,
+    "hobbies": [
+      "Gaming",
+      "Cooking",
+      "Gardening"
+    ]
   },
   {
-    "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "address": {
-      "street": "Douglas Extension",
-      "suite": "Suite 847",
-      "city": "McKenziehaven",
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    },
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
-    "company": {
-      "name": "Romaguera-Jacobson",
-      "catchPhrase": "Face to face bifurcated interface",
-      "bs": "e-enable strategic applications"
-    }
+    "id": "4cad2158-da29-4019-ae70-43d79258b2a8",
+    "username": "Charlie",
+    "age": 53,
+    "hobbies": [
+      "Cycling",
+      "Hiking"
+    ]
   },
   {
-    "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
-    "address": {
-      "street": "Hoeger Mall",
-      "suite": "Apt. 692",
-      "city": "South Elvis",
-      "zipcode": "53919-4257",
-      "geo": {
-        "lat": "29.4572",
-        "lng": "-164.2990"
-      }
-    },
-    "phone": "493-170-9623 x156",
-    "website": "kale.biz",
-    "company": {
-      "name": "Robel-Corkery",
-      "catchPhrase": "Multi-tiered zero tolerance productivity",
-      "bs": "transition cutting-edge web services"
-    }
+    "id": "db52f22f-0594-48a5-890e-dc4d9bda0833",
+    "username": "David",
+    "age": 40,
+    "hobbies": [
+      "Photography",
+      "Drawing"
+    ]
   },
   {
-    "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
-    "address": {
-      "street": "Skiles Walks",
-      "suite": "Suite 351",
-      "city": "Roscoeview",
-      "zipcode": "33263",
-      "geo": {
-        "lat": "-31.8129",
-        "lng": "62.5342"
-      }
-    },
-    "phone": "(254)954-1289",
-    "website": "demarco.info",
-    "company": {
-      "name": "Keebler LLC",
-      "catchPhrase": "User-centric fault-tolerant solution",
-      "bs": "revolutionize end-to-end systems"
-    }
+    "id": "78583575-8b30-400c-9cf5-f6b26145b1c6",
+    "username": "Eve",
+    "age": 45,
+    "hobbies": [
+      "Writing",
+      "Dancing",
+      "Singing"
+    ]
   },
   {
-    "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "address": {
-      "street": "Norberto Crossing",
-      "suite": "Apt. 950",
-      "city": "South Christy",
-      "zipcode": "23505-1337",
-      "geo": {
-        "lat": "-71.4197",
-        "lng": "71.7478"
-      }
-    },
-    "phone": "1-477-935-8478 x6430",
-    "website": "ola.org",
-    "company": {
-      "name": "Considine-Lockman",
-      "catchPhrase": "Synchronised bottom-line interface",
-      "bs": "e-enable innovative applications"
-    }
+    "id": "3a9a2a8c-af56-4e4a-8edc-aa47190ee049",
+    "username": "Frank",
+    "age": 49,
+    "hobbies": [
+      "Running",
+      "Jogging"
+    ]
   },
   {
-    "id": 7,
-    "name": "Kurtis Weissnat",
-    "username": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
-    "address": {
-      "street": "Rex Trail",
-      "suite": "Suite 280",
-      "city": "Howemouth",
-      "zipcode": "58804-1099",
-      "geo": {
-        "lat": "24.8918",
-        "lng": "21.8984"
-      }
-    },
-    "phone": "210.067.6132",
-    "website": "elvis.io",
-    "company": {
-      "name": "Johns Group",
-      "catchPhrase": "Configurable multimedia task-force",
-      "bs": "generate enterprise e-tailers"
-    }
+    "id": "7d48a46e-08ed-4539-99b9-54c147fd0d21",
+    "username": "Grace",
+    "age": 21,
+    "hobbies": [
+      "Fishing",
+      "Skiing"
+    ]
   },
   {
-    "id": 8,
-    "name": "Nicholas Runolfsdottir V",
-    "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
-    "address": {
-      "street": "Ellsworth Summit",
-      "suite": "Suite 729",
-      "city": "Aliyaview",
-      "zipcode": "45169",
-      "geo": {
-        "lat": "-14.3990",
-        "lng": "-120.7677"
-      }
-    },
-    "phone": "586.493.6943 x140",
-    "website": "jacynthe.com",
-    "company": {
-      "name": "Abernathy Group",
-      "catchPhrase": "Implemented secondary concept",
-      "bs": "e-enable extensible e-tailers"
-    }
+    "id": "1a7ed7d9-0966-4be7-981e-614fe285ce36",
+    "username": "Heidi",
+    "age": 22,
+    "hobbies": [
+      "Painting",
+      "Crafting"
+    ]
   },
   {
-    "id": 9,
-    "name": "Glenna Reichert",
-    "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
-    "address": {
-      "street": "Dayna Park",
-      "suite": "Suite 449",
-      "city": "Bartholomebury",
-      "zipcode": "76495-3109",
-      "geo": {
-        "lat": "24.6463",
-        "lng": "-168.8889"
-      }
-    },
-    "phone": "(775)976-6794 x41206",
-    "website": "conrad.com",
-    "company": {
-      "name": "Yost and Sons",
-      "catchPhrase": "Switchable contextually-based project",
-      "bs": "aggregate real-time technologies"
-    }
+    "id": "f73e599b-613b-4c11-8459-9c355aa9cef0",
+    "username": "Ivan",
+    "age": 46,
+    "hobbies": [
+      "Baking",
+      "Cooking"
+    ]
   },
   {
-    "id": 10,
-    "name": "Clementina DuBuque",
-    "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
-    "address": {
-      "street": "Kattie Turnpike",
-      "suite": "Suite 198",
-      "city": "Lebsackbury",
-      "zipcode": "31428-2261",
-      "geo": {
-        "lat": "-38.2386",
-        "lng": "57.2232"
-      }
-    },
-    "phone": "024-648-3804",
-    "website": "ambrose.net",
-    "company": {
-      "name": "Hoeger LLC",
-      "catchPhrase": "Centralized empowering task-force",
-      "bs": "target end-to-end models"
-    }
+    "id": "98b23419-2e26-4163-bdca-f4a759b93795",
+    "username": "Judy",
+    "age": 65,
+    "hobbies": [
+      "Yoga",
+      "Meditation"
+    ]
+  },
+  {
+    "id": "52bb22ee-8a37-47e4-be2b-b12cbce9d975",
+    "username": "Ken",
+    "age": 61,
+    "hobbies": [
+      "Knitting",
+      "Sewing"
+    ]
+  },
+  {
+    "id": "4a6ad5da-6b8e-43f4-ae43-59f5ca6307ce",
+    "username": "Laura",
+    "age": 59,
+    "hobbies": [
+      "Bird Watching",
+      "Stargazing"
+    ]
+  },
+  {
+    "id": "0fb112e1-a4e3-444d-a35f-40d73d0ce74e",
+    "username": "Mallory",
+    "age": 18,
+    "hobbies": [
+      "Collecting",
+      "Scrapbooking"
+    ]
+  },
+  {
+    "id": "bf624b15-8f0b-4475-9a3a-47449f68fed3",
+    "username": "Niaj",
+    "age": 26,
+    "hobbies": [
+      "Martial Arts",
+      "Boxing"
+    ]
+  },
+  {
+    "id": "47432be3-952b-4180-9a0b-0bb198134a9c",
+    "username": "Olivia",
+    "age": 55,
+    "hobbies": [
+      "Surfing",
+      "Skateboarding"
+    ]
+  },
+  {
+    "id": "cb525986-debe-4928-a81c-0a27379e963a",
+    "username": "Peggy",
+    "age": 67,
+    "hobbies": [
+      "Basketball",
+      "Soccer"
+    ]
+  },
+  {
+    "id": "4a92a482-48c8-461f-8cdc-451635c35303",
+    "username": "Quinn",
+    "age": 62,
+    "hobbies": [
+      "Volunteering",
+      "Community Service"
+    ]
+  },
+  {
+    "id": "01d582de-fd8e-484f-ab48-196ac9c12e33",
+    "username": "Rupert",
+    "age": 26,
+    "hobbies": [
+      "Magic Tricks",
+      "Juggling"
+    ]
+  },
+  {
+    "id": "c68ac21a-a2cb-46a6-87ae-a1d3b58f91e1",
+    "username": "Sybil",
+    "age": 53,
+    "hobbies": [
+      "Puzzles",
+      "Board Games"
+    ]
+  },
+  {
+    "id": "34cad5d5-5d4a-45e3-a659-d798ab11ea50",
+    "username": "Trent",
+    "age": 67,
+    "hobbies": [
+      "Stand-up Comedy",
+      "Improv"
+    ]
   }
 ]
